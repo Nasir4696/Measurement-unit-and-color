@@ -1,0 +1,31 @@
+h1{border: dotted;
+
+}
+h1{background-color:peachpuff;
+
+}
+
+
+#rajmukut{text-align: center;
+
+}
+
+
+.box{text-align: center;
+	background-color: rgba(0, 0, 0, .50);
+
+}
+div{background-color: orange;
+	opacity: 0.80;
+	text-align: center;
+}
+div{border: 5px;
+	border-color: green;
+
+}
+img{height: 100%;
+	width: 100%;
+}
+p{
+	background-image: url(nasir3.jpg);
+}
